@@ -1,0 +1,8 @@
+name = "zed-todo-tree"
+version = "0.1.0"
+description = "Zed Todo Tree is an extension for Zed. This is to highlighting 'TODO: ' comment lines and extracting them, show us as Tree struct."
+authors = ["I-Dieod"]
+license = "MIT"
+
+[grammars.comment]
+path = "languages/comment"
